@@ -10,7 +10,7 @@ namespace ClickerGame
             InitializeComponent();
         }
 
-        private void okButton_Click(object sender, EventArgs e)
+        private void okButton_Click(object sender, EventArgs e) // Закрытие окна
         {
             this.Close();
         }
